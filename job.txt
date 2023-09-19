@@ -1,0 +1,31 @@
+1-	A Software Engineer, or Software Development Engineer, is responsible for developing software programs or systems that align with user needs. Their duties include meeting with clients or business professionals to strategize ideas for beneficial software, coordinating with other IT professionals to design software and running tests to catch coding errors.
+• Analyze the needs of the user
+• Design, test and develop the software to meet those needs
+• Recommend upgrades for existing systems and programs
+• Develop separate elements of a software that work well in the program as a whole
+• Create various diagrams, flowcharts and models that illustrate the type of code needed for programmers
+• Ensure continued functionality of a program during maintenance and testing of software
+• Document each aspect of a system or application as a reference for future upgrades and maintenance
+• Revisit the development process to fix bugs or address client or consumer concerns
+
+
+
+2-A Full Stack Developer, or Full Stack Software Engineer, is a Computer Programmer who uses coding to operate on both front- and back-end systems. Their main duties include creating user interactions on various websites and platforms, writing code optimized for mobile and developing databases and services for functionality.
+• Managing the complete software development process from conception to deployment
+•   Maintaining and upgrading the software following deployment
+•   Managing the end-to-end life cycle for the production of software and applications
+•   Overseeing and guiding the analyzing, writing, building, and deployment of software
+•    Overseeing the automated testing and providing feedback to management during the development process
+•    Modifying and testing changes to previously developed programs
+
+
+
+3-A Software Developer, or Computer Software Developer, is responsible for using their knowledge of programming languages to design software programs. Their duties include meeting with clients to determine their software needs, coding and testing software to ensure functionality and updating software programs to refine components like cybersecurity measures and data storage capacities.
+• Collaborating with management, departments and customers to identify end-user requirements and specifications
+• Designing algorithms and flowcharts to create new software programs and systems
+• Producing efficient and elegant code based on requirements
+• Testing and deploying programs and applications
+• Troubleshooting, debugging, maintaining and improving existing software
+•  Compiling and assessing user feedback to improve software performance
+• Observing user feedback to recommend improvements to existing software products
+• Developing technical documentation to guide future software development projects
